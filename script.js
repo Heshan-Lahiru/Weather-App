@@ -76,6 +76,7 @@
         });
         forecastContainer.innerHTML = html;
     }
+
     
     function displayHistoricalWeather(data) {
         const { forecast } = data;
